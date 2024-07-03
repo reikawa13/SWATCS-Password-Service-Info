@@ -1,14 +1,7 @@
-#SWATCS_Password_Service_Info 
-
 # PasswordService
-
-![Tests Status](ims/tests-badge.svg)
-![Coverage](ims/coverage-badge.svg)
 
 Our new [CS self-service password app](https://password.cs.swarthmore.edu/), 
 written with python and [flask](https://flask.palletsprojects.com/en/2.0.x/).
-
-![app login screen](ims/login.png)
 
 ## About
 
